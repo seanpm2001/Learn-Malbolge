@@ -32,10 +32,17 @@
 *.css linguist-detectable=true
 *.css linguist-documentation=false
 *.css linguist-language=CSS
-# Less stylesheet file
-*.less linguist-detectable=true
-*.less linguist-documentation=false
-*.less linguist-language=Less
+# Malbolge source file
+# May not be officially recognized by GitHub as of 2022, Thursday, September 8th
+*.mb linguist-detectable=true
+*.mb linguist-documentation=false
+*.mb linguist-language=Malbolge
+*.mal linguist-detectable=true
+*.mal linguist-documentation=false
+*.mal linguist-language=Malbolge
+*.mbg linguist-detectable=true
+*.mbg linguist-documentation=false
+*.mbg linguist-language=Malbolge
 # JSON (JavaScript Object Notation) source file
 *.json linguist-detectable=false
 *.json linguist-documentation=false
@@ -164,7 +171,7 @@
 # End of linguist script
 
 # File info
-# File type: gitattributes file (.gitattributes)
-# File version: 4 (2022, Tuesday, June 28th at 2:32 pm PST)
-# Line count (including blank lines and compiler line): 171
+# File type: gitattributes file (*.gitattributes)
+# File version: 5 (2022, Thursday, September 8th at 2:27 pm PST)
+# Line count (including blank lines and compiler line): 178
 # End of script
